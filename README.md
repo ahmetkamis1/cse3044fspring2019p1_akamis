@@ -1,4 +1,4 @@
-# cse3044fspring2019p1_akamis (homework 2)
+# homework 2
 
  ## 1)
  ### petsurfer.com
